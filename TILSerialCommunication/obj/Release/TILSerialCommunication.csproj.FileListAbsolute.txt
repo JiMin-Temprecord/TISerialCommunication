@@ -1,0 +1,10 @@
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\bin\Release\TILSerialCommunication.exe.config
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\bin\Release\TILSerialCommunication.exe
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\bin\Release\TILSerialCommunication.pdb
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.TADSerialCommunication.resources
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.Properties.Resources.resources
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.UserControl1.resources
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.csproj.GenerateResource.cache
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.exe
+C:\Users\JiMin\source\repos\TILSerialCommunication\TILSerialCommunication\obj\Release\TILSerialCommunication.pdb
